@@ -16,3 +16,13 @@ Está sendo usado um filtro de topologia chebyshev tipo II de quarta ordem. Send
 Foi usado nesse projeto o sensor de baixo custo Amped
 
 ![plot](data/sensor_amped.png)
+
+## Resultados preliminares
+
+### Sinal não filtrado
+
+![plot](data/ppg_test0_unfiltered.png)
+
+### Sinal filtrado
+
+![plot](data/ppg_test0_filtered.png)
