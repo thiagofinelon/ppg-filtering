@@ -1,0 +1,7 @@
+cheby2_4th.c:35:17:cheby2_4th_create	16	static
+cheby2_4th.c:42:6:cheby2_4th_destroy	16	static
+cheby2_4th.c:47:6:cheby2_4th_init	16	static
+cheby2_4th.c:52:6:cheby2_4th_reset	16	static
+cheby2_4th.c:58:5:cheby2_4th_filterBlock	48	static
+cheby2_4th.c:80:6:cheby2_4th_filterBiquad_30_15	112	static
+cheby2_4th.c:130:6:cheby2_4th_filterBiquad_30_30	112	static
